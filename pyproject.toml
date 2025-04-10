@@ -33,7 +33,7 @@ dependencies = [
     "typing-extensions>=4.12.2",
     "psutil>=7.0.0",
     "faiss-cpu>=1.10.0",
-    "mem0ai==0.1.81",
+    "mem0ai==0.1.88",
     "pyautogui>=0.9.54",
     "opencv-python>=4.11.0.86",
     "langchain-deepseek>=0.1.3",
