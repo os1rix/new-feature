@@ -34,6 +34,9 @@ dependencies = [
     "psutil>=7.0.0",
     "faiss-cpu>=1.10.0",
     "mem0ai==0.1.81",
+    "pyautogui>=0.9.54",
+    "opencv-python>=4.11.0.86",
+    "langchain-deepseek>=0.1.3",
 ]
 
 # botocore: only needed for Bedrock Claude boto3 examples/models/bedrock_claude.py 
